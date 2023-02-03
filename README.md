@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Dang Khoa</h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+FrontEnd+Developer;I'm+a+MERN+Developer;"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+FrontEnd+Developer;I'm+a+MERN+Developer;"/>
 </div>
 <br />
 <div>
