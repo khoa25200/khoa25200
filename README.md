@@ -5,7 +5,7 @@
 <br />
 <div>
   <p align="middle">
-  <a align="middle" href="https://portfolio-khoa25200.vercel.app/">
+  <a align="middle" target="_blank" href="https://portfolio-khoa25200.vercel.app/">
     <b>Visit my Portfolio 👉 👈</b>
   </a>
 
