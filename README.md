@@ -5,8 +5,8 @@
 <br />
 <div>
   <p align="middle">
-  <a href="https://portfolio-khoa25200.vercel.app/">
-  <h4 align="middle">Visit my Portfolio 👉 👈</h4>
+  <a align="middle" href="https://portfolio-khoa25200.vercel.app/">
+    <b>Visit my Portfolio 👉 👈</b>
   </a>
 
 
