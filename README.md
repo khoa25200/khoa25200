@@ -5,6 +5,15 @@
 <br />
 <div>
   <p align="middle">
+  <a href="https://portfolio-khoa25200.vercel.app/">
+  <h4 align="middle">Visit my Portfolio 👉 👈</h4>
+  </a>
+
+
+  </p>
+</div>
+<div>
+  <p align="middle">
   <a href="https://www.linkedin.com/in/khoa2520/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
