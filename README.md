@@ -18,16 +18,18 @@
 </div>
 <br />
 <h3>My Skills: </h3>
-  <img src="icons/html-5.png" width='30px'>
-  <img src="icons/css-3.png" width='30px'>
-  <img src="icons/sass.png" width='30px'>
-  <img src="icons/js.png" width='30px'>
-  <img src="icons/typescript.png" width='30px'>
-  <img src="icons/science.png" width='30px'>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width='30px'>
-  <img src="icons/next.png" width='30px'>
-  <img src="icons/nodejs.png" width='30px'>
-  <img src="icons/sql-server.png" width='30px'>
-  <img src="icons/git.png" width='30px'>
+ <div style="display: flex;">
+  <img style="margin: 0 5px" src="icons/html-5.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/css-3.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/sass.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/js.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/typescript.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/science.png" width='30px'>
+    <img style="margin: 0 5px" src="https://angular.io/assets/images/logos/angular/angular.svg" width='30px'>
+  <img style="margin: 0 5px" src="icons/next.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/nodejs.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/sql-server.png" width='30px'>
+  <img style="margin: 0 5px" src="icons/git.png" width='30px'>
+ </div>
  
 <br />
