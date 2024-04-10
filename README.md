@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/khoa2520/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
-  <a href="mailto:ngdakhoa@gmail.com?subject=Hello%20DangKhoa,%20From%20Github">
+  <a href="mailto:dangkhoa2520ss@gmail.com?subject=Hello%20DangKhoa,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100007340288042">
